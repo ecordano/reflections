@@ -1,0 +1,22 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	It was very useful to be able to compare the two versions without needing to manually go through it. The FC command is a key tool.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+	May not do it often enough, or do it too often and it becomes cluttered. More so the first.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	
+
+How can you use the commands git log and git diff to view the history of files?
+
+	type in git log to see all of the commits. type in git diff commit1 commit2 to see their differences
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	it generates an e mpty one for whatever directory you are in. This is necessary to create a sort of big file to contain stuff in
+	do this using "git init" and "git status"
+
