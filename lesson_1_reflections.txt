@@ -15,8 +15,4 @@ How can you use the commands git log and git diff to view the history of files?
 
 	type in git log to see all of the commits. type in git diff commit1 commit2 to see their differences
 
-What happens when you initialize a repository? Why do you need to do it?
-
-	it generates an e mpty one for whatever directory you are in. This is necessary to create a sort of big file to contain stuff in
-	do this using "git init" and "git status"
 

@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	it generates an e mpty one for whatever directory you are in. This is necessary to create a sort of big file to contain stuff in
+	do this using "git init" and "git status"
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	the staging area is needed as an intermediary between the files in your directory and making commits to a repository. You can use "git add" to add one or multiple files to the area to be committed at one time
